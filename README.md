@@ -1,6 +1,6 @@
-# CameraControl
+# TORCS Hand Gesture Controller
 Using the OpenCV libraries to control with body motion game TORCS.
-In order to detect body motion it uses color recognition. 
+Part of my high school graduation project. 
 
-# Video
-[![Watch the video](http://interestsame.altervista.org/CC/img/3.png)](https://www.youtube.com/watch?v=frbqxef9OzY)
+### Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/frbqxef9OzY/0.jpg)](http://www.youtube.com/watch?v=frbqxef9OzY)
